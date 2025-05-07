@@ -7,11 +7,11 @@
 
 ## Содержание
 - [Описание задачи] (Задание.md](Задание.md))
-- [Требования](https://github.com/DJARTUR25/Yadro-Impulse-2025)
-- [Сборка и запуск](https://github.com/DJARTUR25/Yadro-Impulse-2025)
-- [формат входных данных](https://github.com/DJARTUR25/Yadro-Impulse-2025)
-- [Пример работы](https://github.com/DJARTUR25/Yadro-Impulse-2025))
-- [Заключение](https://github.com/DJARTUR25/Yadro-Impulse-2025)
+- [Требования]
+- [Сборка и запуск]
+- [формат входных данных]
+- [Пример работы]
+- [Заключение]
 
 ---
 
@@ -114,5 +114,7 @@
 ---
 ## Заключение
 
-Спасибо за проверку моей работы.
+Программа имеет [MIT-License](#LICENSE.md).
+
+Спасибо за проверку моей работы!
 
